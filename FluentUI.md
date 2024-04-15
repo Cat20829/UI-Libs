@@ -80,3 +80,15 @@ local Slider = Tabs.Main:AddSlider("Slider", {
         end
     })
 ```
+## 📝 Textual Elements
+#### Creating Sections
+```lua
+local main = MainTab:CreateSection("Section")
+```
+#### Creating Paragrahps
+```lua
+Tabs.Main:AddParagraph({
+        Title = "Paragraph",
+        Content = "This is a paragraph.\nSecond line!"
+    })
+```
