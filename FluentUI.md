@@ -19,14 +19,14 @@ local Window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.LeftControl -- Used when theres no MinimizeKeybind, When pressing pressing the key Leftctrl, it will show or not show the UI lib.
 })
 ```
-##### Tabs
+#### Tabs
 ```lua
 local Tabs = {
     Main = Window:AddTab({ Title = "Main", Icon = "" }), -- Icon Means What Icon You Want in the tab, for example, Icon = "Home"
     Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
 }
 ```
-##### Dialog
+#### Dialog
 ```lua
 Window:Dialog({
                 Title = "Title",
@@ -49,7 +49,7 @@ Window:Dialog({
         end
 ```
 ## ⚡ Elements
-##### Adding Buttons
+#### Adding Buttons
 ```lua
 Tabs.Main:AddButton({
         Title = "Button",
