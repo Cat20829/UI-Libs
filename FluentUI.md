@@ -1,4 +1,5 @@
 # Fluent UI
+<img src="Assets/logodark.png#gh-dark-mode-only" alt="fluent"> <img src="Assets/logolight.png#gh-light-mode-only" alt="fluent"> 
 ### Made By 5awid, Showcase On [Youtube](https://youtu.be/jp8QcBoEzdc?si=OZgiNBESrSHq7irs), Icons On [Lucide](https://lucide.dev/icons)
 ## 🔌 Installation
 #### Loadstring (Needed)
