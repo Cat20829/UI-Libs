@@ -1,2 +1,2 @@
-## Orion User-Interface
-Made by (shlexware)[https://github.com/shlexware]
+# Orion User-Interface
+Made by [shlexware](https://github.com/shlexware)
